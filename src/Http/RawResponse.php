@@ -1,6 +1,6 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Http;
+namespace Ruff0\WhatsappApiLaravel\Http;
 
 class RawResponse
 {

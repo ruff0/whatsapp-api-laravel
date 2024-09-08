@@ -1,10 +1,10 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message;
+namespace Ruff0\WhatsappApiLaravel\Message;
 
-use AsimAltayb\WhatsappApiLaravel\Message\Contact\ContactName;
-use AsimAltayb\WhatsappApiLaravel\Message\Contact\Phone;
-use AsimAltayb\WhatsappApiLaravel\Message\Contact\Phones;
+use Ruff0\WhatsappApiLaravel\Message\Contact\ContactName;
+use Ruff0\WhatsappApiLaravel\Message\Contact\Phone;
+use Ruff0\WhatsappApiLaravel\Message\Contact\Phones;
 
 class ContactMessage extends Message
 {

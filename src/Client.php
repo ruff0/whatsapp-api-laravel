@@ -1,9 +1,9 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel;
+namespace Ruff0\WhatsappApiLaravel;
 
-use AsimAltayb\WhatsappApiLaravel\Http\ClientHandler;
-use AsimAltayb\WhatsappApiLaravel\Http\GuzzleClientHandler;
+use Ruff0\WhatsappApiLaravel\Http\ClientHandler;
+use Ruff0\WhatsappApiLaravel\Http\GuzzleClientHandler;
 
 class Client
 {
@@ -40,7 +40,7 @@ class Client
      *
      * @return Response Raw response from the server.
      *
-     * @throws AsimAltayb\WhatsappApiLaravel\Response\ResponseException
+     * @throws Ruff0\WhatsappApiLaravel\Response\ResponseException
      */
     public function sendRequest(Request $request): Response
     {

@@ -1,6 +1,6 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message\Template;
+namespace Ruff0\WhatsappApiLaravel\Message\Template;
 
 class Component
 {

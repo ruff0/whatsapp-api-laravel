@@ -1,8 +1,8 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel;
+namespace Ruff0\WhatsappApiLaravel;
 
-use AsimAltayb\WhatsappApiLaravel\Message\Message;
+use Ruff0\WhatsappApiLaravel\Message\Message;
 
 abstract class Request
 {

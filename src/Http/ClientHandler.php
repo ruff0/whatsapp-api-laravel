@@ -1,6 +1,6 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Http;
+namespace Ruff0\WhatsappApiLaravel\Http;
 
 interface ClientHandler
 {
@@ -14,7 +14,7 @@ interface ClientHandler
      *
      * @return RawResponse Response from the server.
      *
-     * @throws AsimAltayb\WhatsappApiLaravel\Response\ResponseException
+     * @throws Ruff0\WhatsappApiLaravel\Response\ResponseException
      */
     public function send(string $url, string $body, array $headers, int $timeout): RawResponse;
 }

@@ -1,8 +1,8 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel;
+namespace Ruff0\WhatsappApiLaravel;
 
-use AsimAltayb\WhatsappApiLaravel\Response\ResponseException;
+use Ruff0\WhatsappApiLaravel\Response\ResponseException;
 
 class Response
 {

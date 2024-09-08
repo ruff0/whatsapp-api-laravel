@@ -1,6 +1,6 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message;
+namespace Ruff0\WhatsappApiLaravel\Message;
 
 abstract class Message
 {

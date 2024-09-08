@@ -1,6 +1,6 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message\Error;
+namespace Ruff0\WhatsappApiLaravel\Message\Error;
 
 class InvalidMessage extends \Exception
 {

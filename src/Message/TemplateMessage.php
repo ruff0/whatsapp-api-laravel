@@ -1,8 +1,8 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message;
+namespace Ruff0\WhatsappApiLaravel\Message;
 
-use AsimAltayb\WhatsappApiLaravel\Message\Template\Component;
+use Ruff0\WhatsappApiLaravel\Message\Template\Component;
 
 class TemplateMessage extends Message
 {

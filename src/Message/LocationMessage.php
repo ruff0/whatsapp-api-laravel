@@ -1,8 +1,8 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message;
+namespace Ruff0\WhatsappApiLaravel\Message;
 
-use AsimAltayb\WhatsappApiLaravel\Message\Error\InvalidMessage;
+use Ruff0\WhatsappApiLaravel\Message\Error\InvalidMessage;
 
 class LocationMessage extends Message
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Request;
+namespace Ruff0\WhatsappApiLaravel\Request;
 
-use AsimAltayb\WhatsappApiLaravel\Request;
+use Ruff0\WhatsappApiLaravel\Request;
 
 class RequestTextMessage extends Request
 {

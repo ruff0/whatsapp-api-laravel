@@ -1,6 +1,6 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message\Media;
+namespace Ruff0\WhatsappApiLaravel\Message\Media;
 
 class MediaObjectID extends MediaID
 {

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
  
-namespace AsimAltayb\WhatsappApiLaravel\Providers;
+namespace Ruff0\WhatsappApiLaravel\Providers;
  
 use Illuminate\Support\ServiceProvider;
  

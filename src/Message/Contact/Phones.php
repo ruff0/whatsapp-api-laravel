@@ -1,6 +1,6 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message\Contact;
+namespace Ruff0\WhatsappApiLaravel\Message\Contact;
 
 class Phones implements \Countable, \IteratorAggregate
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message\Media;
+namespace Ruff0\WhatsappApiLaravel\Message\Media;
 
-use AsimAltayb\WhatsappApiLaravel\Message\Error\InvalidMessage;
+use Ruff0\WhatsappApiLaravel\Message\Error\InvalidMessage;
 
 class LinkID extends MediaID
 {

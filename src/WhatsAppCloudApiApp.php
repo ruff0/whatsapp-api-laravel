@@ -1,6 +1,6 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel;
+namespace Ruff0\WhatsappApiLaravel;
 
 class WhatsAppCloudApiApp
 {

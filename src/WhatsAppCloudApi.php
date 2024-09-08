@@ -1,30 +1,30 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel;
+namespace Ruff0\WhatsappApiLaravel;
 
-use AsimAltayb\WhatsappApiLaravel\Message\AudioMessage;
-use AsimAltayb\WhatsappApiLaravel\Message\Contact\ContactName;
-use AsimAltayb\WhatsappApiLaravel\Message\Contact\Phone;
-use AsimAltayb\WhatsappApiLaravel\Message\ContactMessage;
-use AsimAltayb\WhatsappApiLaravel\Message\Document\Document;
-use AsimAltayb\WhatsappApiLaravel\Message\DocumentMessage;
-use AsimAltayb\WhatsappApiLaravel\Message\ImageMessage;
-use AsimAltayb\WhatsappApiLaravel\Message\LocationMessage;
-use AsimAltayb\WhatsappApiLaravel\Message\Media\MediaID;
-use AsimAltayb\WhatsappApiLaravel\Message\StickerMessage;
-use AsimAltayb\WhatsappApiLaravel\Message\Template\Component;
-use AsimAltayb\WhatsappApiLaravel\Message\TemplateMessage;
-use AsimAltayb\WhatsappApiLaravel\Message\TextMessage;
-use AsimAltayb\WhatsappApiLaravel\Message\VideoMessage;
-use AsimAltayb\WhatsappApiLaravel\Request\RequestAudioMessage;
-use AsimAltayb\WhatsappApiLaravel\Request\RequestContactMessage;
-use AsimAltayb\WhatsappApiLaravel\Request\RequestDocumentMessage;
-use AsimAltayb\WhatsappApiLaravel\Request\RequestImageMessage;
-use AsimAltayb\WhatsappApiLaravel\Request\RequestLocationMessage;
-use AsimAltayb\WhatsappApiLaravel\Request\RequestStickerMessage;
-use AsimAltayb\WhatsappApiLaravel\Request\RequestTemplateMessage;
-use AsimAltayb\WhatsappApiLaravel\Request\RequestTextMessage;
-use AsimAltayb\WhatsappApiLaravel\Request\RequestVideoMessage;
+use Ruff0\WhatsappApiLaravel\Message\AudioMessage;
+use Ruff0\WhatsappApiLaravel\Message\Contact\ContactName;
+use Ruff0\WhatsappApiLaravel\Message\Contact\Phone;
+use Ruff0\WhatsappApiLaravel\Message\ContactMessage;
+use Ruff0\WhatsappApiLaravel\Message\Document\Document;
+use Ruff0\WhatsappApiLaravel\Message\DocumentMessage;
+use Ruff0\WhatsappApiLaravel\Message\ImageMessage;
+use Ruff0\WhatsappApiLaravel\Message\LocationMessage;
+use Ruff0\WhatsappApiLaravel\Message\Media\MediaID;
+use Ruff0\WhatsappApiLaravel\Message\StickerMessage;
+use Ruff0\WhatsappApiLaravel\Message\Template\Component;
+use Ruff0\WhatsappApiLaravel\Message\TemplateMessage;
+use Ruff0\WhatsappApiLaravel\Message\TextMessage;
+use Ruff0\WhatsappApiLaravel\Message\VideoMessage;
+use Ruff0\WhatsappApiLaravel\Request\RequestAudioMessage;
+use Ruff0\WhatsappApiLaravel\Request\RequestContactMessage;
+use Ruff0\WhatsappApiLaravel\Request\RequestDocumentMessage;
+use Ruff0\WhatsappApiLaravel\Request\RequestImageMessage;
+use Ruff0\WhatsappApiLaravel\Request\RequestLocationMessage;
+use Ruff0\WhatsappApiLaravel\Request\RequestStickerMessage;
+use Ruff0\WhatsappApiLaravel\Request\RequestTemplateMessage;
+use Ruff0\WhatsappApiLaravel\Request\RequestTextMessage;
+use Ruff0\WhatsappApiLaravel\Request\RequestVideoMessage;
 
 class WhatsAppCloudApi
 {

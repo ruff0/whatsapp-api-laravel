@@ -1,8 +1,8 @@
 <?php
 
-namespace AsimAltayb\WhatsappApiLaravel\Message;
+namespace Ruff0\WhatsappApiLaravel\Message;
 
-use AsimAltayb\WhatsappApiLaravel\Message\Media\MediaID;
+use Ruff0\WhatsappApiLaravel\Message\Media\MediaID;
 
 class DocumentMessage extends Message
 {
